@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ruleset name="vk-api-client">
+    <description>PSR-12 coding standard</description>
+
+    <file>src</file>
+    <file>tests</file>
+    <file>examples</file>
+
+    <arg name="colors"/>
+    <arg value="sp"/>
+    <arg name="extensions" value="php"/>
+
+    <rule ref="PSR12"/>
+</ruleset>
