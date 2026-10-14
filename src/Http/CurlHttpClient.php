@@ -1,5 +1,4 @@
-git add src/Http
-git commit -m "feat: HTTP client interface and cURL transport"<?php
+<?php
 
 declare(strict_types=1);
 
