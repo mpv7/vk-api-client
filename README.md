@@ -223,7 +223,3 @@ composer check           # cs + test
 в URL и сообщениях об ошибках, повтор с тем же `random_id`.
 
 CI (GitHub Actions) запускает PSR-12 и тесты на PHP 8.1, 8.2 и 8.3.
-
-## Лицензия
-
-MIT, см. [LICENSE](LICENSE).
